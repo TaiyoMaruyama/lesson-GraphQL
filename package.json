@@ -1,0 +1,21 @@
+{
+  "name": "hackernews-graphql-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.14.0",
+    "apollo-server": "^2.26.1",
+    "graphql": "^14.6.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.14.0"
+  }
+}
